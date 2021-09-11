@@ -186,6 +186,10 @@ hi link diffAdded                DiffAdd
 hi link QuickFixLine             Search
 hi link ConId                    Type
 
+" nline.nvim
+hi link NormalMode Special
+hi link VisualMode Special
+hi link InsertMode Function
 " Yaml
 hi link yamlBlockMappingKey Statement
 hi link yamlFlowIndicator   SpecialKey
